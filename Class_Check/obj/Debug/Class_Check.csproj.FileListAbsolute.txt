@@ -1,0 +1,15 @@
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\bin\Debug\Objects\Tech_DB.accdb
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\bin\Debug\Class_Check.exe.config
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\bin\Debug\Class_Check.exe
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\bin\Debug\Class_Check.pdb
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\obj\Debug\Class_Check.csprojAssemblyReference.cache
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\obj\Debug\Class_Check.Checklist.resources
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\obj\Debug\Class_Check.Inventory.resources
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\obj\Debug\Class_Check.Main.resources
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\obj\Debug\Class_Check.Properties.Resources.resources
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\obj\Debug\Class_Check.Report.resources
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\obj\Debug\Class_Check.Settings.resources
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\obj\Debug\Class_Check.csproj.GenerateResource.cache
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\obj\Debug\Class_Check.csproj.CoreCompileInputs.cache
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\obj\Debug\Class_Check.exe
+C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\obj\Debug\Class_Check.pdb

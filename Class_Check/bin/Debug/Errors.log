@@ -1,0 +1,6 @@
+DANL-129-13931
+3/6/2019 1:03:23 PM
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at AppFunctions.DBFunctions.CreateItt() in C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\Funcs.cs:line 91
+   at AppFunctions.DBFunctions.CreateVars() in C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\Funcs.cs:line 45
+   at Class_Check.Program.Main() in C:\Users\techstu\Source\Repos\Class_Check\Class_Check\Class_Check\Program.cs:line 19
